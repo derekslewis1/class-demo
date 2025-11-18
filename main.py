@@ -1,5 +1,4 @@
 from src.add import add
-import sys
 def main():
     print(f"Hello from class-demo! 2 + 3 = {add(2,3)}")
         
